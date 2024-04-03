@@ -1,1 +1,1 @@
-# simple-template
+# fuzzy-eureka
